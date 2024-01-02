@@ -27,6 +27,7 @@ public class move : MonoBehaviour
 
         float characterVelocity = Mathf.Abs(rb.velocity.x);
         animator.SetFloat("Speed", characterVelocity);
+        animator.SetBool("isJumping", isJumping);
     }
 
         void Update ()
