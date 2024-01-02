@@ -1,0 +1,33 @@
+Genre : Aventure/Plateforme
+
+Thèmes : Japon, époque Edo
+
+Features :
+- Ecran titre
+- Création de sauvegarde
+- Menu (inventaire, monnaie, niveau du personnage, statistiques, sauvegarde)
+- Déplacement, sauts et attaques du personnage
+- Déplacements, sauts et attaques des ennemis
+- Dialogues
+- Achat/Vente d'objets
+- Quêtes
+
+Scénario :
+
+Contexte : Durant la période Edo, le Japon est en proie à des troubles croissants. Une secte mystérieuse, connue sous le nom de "l'Éclipse", émerge de l'ombre, menaçant l'équilibre fragile de la société. Ils sont déterminés à renverser le shogunat et à imposer leur propre règne sombre sur le pays.
+
+Scénario : Votre personnage principal est un samurai talentueux, fidèle au shogun, mais hanté par un passé trouble. Alors qu'il enquête sur les agissements de l'Éclipse, il découvre des liens inattendus avec cette secte. Son passé semble être intimement lié aux événements actuels, mais il ne se souvient que de fragments de mémoire.
+
+Au fil du jeu, votre samurai rencontre des personnages récurrents :
+
+Hana, la Kunoichi (ninja femme) : Elle est à la fois alliée et adversaire, avec ses propres objectifs. Elle semble connaître des secrets essentiels sur le passé du samurai.
+
+Raiden, le Ronin désenchanté : Anciennement un samurai respecté, il s'est éloigné du code de l'honneur. Il pourrait être un allié inattendu ou un ennemi redoutable.
+
+Noboru, le marchand rusé : Il possède des informations vitales sur l'Éclipse mais ne les divulguera qu'en échange de services précis.
+
+Les retournements de situation pourraient inclure la découverte de vérités choquantes sur le passé du samurai, des alliances qui se révèlent être des trahisons, et des ennemis qui se révèlent être des alliés inattendus. Les personnages récurrents pourraient jouer un rôle clé dans ces retournements, changeant de loyauté ou révélant des motivations cachées.
+
+Le gameplay pourrait être axé sur des combats dynamiques avec des ennemis variés affiliés à l'Éclipse, des séquences d'infiltration et d'enquête pour découvrir la vérité, ainsi que des choix moraux qui affectent non seulement l'histoire mais aussi la relation avec les personnages récurrents.
+
+Objectif final : Découvrir la vérité sur le passé du samurai, déjouer les plans de l'Éclipse et choisir entre l'obéissance au shogunat ou un chemin plus personnel vers la rédemption.
