@@ -16,6 +16,10 @@ public class move : MonoBehaviour
     public SpriteRenderer spriteRenderer;
     private float horizontalMovement;
 
+    void Start()
+    {
+        animator = GetComponent<Animator>();
+    }
     void Update(){
         if (Input.GetButtonDown("Jump") && isGrounded == true)
         {
@@ -39,6 +43,8 @@ public class move : MonoBehaviour
     
         if(isJumping == true){
         rb.AddForce(new Vector2(0f, jumpForce));
+        animator.SetBool("isJumping", true);
+        animator.SetFloat("VerticalSpeed", rb.velocity.y);
         isJumping = false;
     }
     }

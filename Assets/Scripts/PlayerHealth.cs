@@ -7,7 +7,6 @@ public class PlayerHealth : MonoBehaviour
     public int currentHealth;
     public bool isInvincible = false;
     private Animator animator;
-
     public HealthBar healthBar;
     void Start()
     {
